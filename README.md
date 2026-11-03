@@ -17,8 +17,8 @@
 <hr/>
 
 <div align="center">
-  <img src="assets/statistics/counter.svg" width="400px" alt="Visitor Counter"/>
-  <br/>
+  <img src="assets/illustrations/pixel-catgirl-number-lineup.png" width="400px" alt="Pixel Catgirl Number Lineup (0 1 6 8 7)"/>
+  <br/><br/>
   <img src="assets/statistics/stats.svg" width="400px" alt="GitHub Stats"/>
   <br/>
   <img height="170" src="assets/statistics/streak-stats.svg" width="400px" alt="GitHub Streak Stats"/>
