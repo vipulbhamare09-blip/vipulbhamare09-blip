@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="assets/banner/purple-red-gaze.gif" alt="Purple &amp; Red Gaze Live Wallpaper" width="100%">
+  <img src="assets/banner/f29f7af6b35e675f2902acd33c7c6e17.jpg" alt="Profile Banner" width="100%">
   <h1>
     💻 Hi, I'm <a href="https://github.com/vipulbhamare09-blip" style="text-decoration: none; color: #58A6FF;">Vipul!</a>
   </h1>
