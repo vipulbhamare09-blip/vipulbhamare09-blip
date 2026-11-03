@@ -1,0 +1,176 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="400" height="100" viewBox="0 0 400 100">
+  <defs>
+    <filter id="shadow" x="-5%" y="-5%" width="110%" height="110%">
+      <feDropShadow dx="0" dy="3" stdDeviation="2" flood-color="#000000" flood-opacity="0.4"/>
+    </filter>
+  </defs>
+  <rect width="400" height="100" rx="8" fill="transparent"/>
+  <g filter="url(#shadow)">
+    
+        <g transform="translate(18, 10)">
+          <!-- Chibi Hair Back -->
+          <circle cx="32" cy="28" r="22" fill="#2D3436"/>
+          <!-- Chibi Ears / Ribbons -->
+          <polygon points="12,18 20,6 24,18" fill="#FF7675"/>
+          <polygon points="52,18 44,6 40,18" fill="#FF7675"/>
+          <!-- Face -->
+          <circle cx="32" cy="30" r="17" fill="#FFEAA7"/>
+          <!-- Blush -->
+          <ellipse cx="21" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <ellipse cx="43" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <!-- Eyes -->
+          <ellipse cx="25" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="24" cy="27" r="1" fill="#FFFFFF"/>
+          <ellipse cx="39" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="38" cy="27" r="1" fill="#FFFFFF"/>
+          <!-- Smile -->
+          <path d="M 29 34 Q 32 37 35 34" stroke="#D63031" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+          <!-- Front Bangs -->
+          <path d="M 16 22 Q 24 16 32 20 Q 40 16 48 22" fill="#2D3436"/>
+          
+          <!-- Placard Card -->
+          <rect x="14" y="44" width="36" height="42" rx="4" fill="#FFFFFF" stroke="#2D3436" stroke-width="2"/>
+          <text x="32" y="74" text-anchor="middle" font-family="'Courier New', monospace, -apple-system" font-size="28" font-weight="900" fill="#2D3436">0</text>
+          
+          <!-- Chibi Hands holding card -->
+          <circle cx="14" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <circle cx="50" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <!-- Feet -->
+          <ellipse cx="25" cy="88" rx="5" ry="3" fill="#FF7675"/>
+          <ellipse cx="39" cy="88" rx="5" ry="3" fill="#FF7675"/>
+        </g>
+        
+        <g transform="translate(93, 10)">
+          <!-- Chibi Hair Back -->
+          <circle cx="32" cy="28" r="22" fill="#0984E3"/>
+          <!-- Chibi Ears / Ribbons -->
+          <polygon points="12,18 20,6 24,18" fill="#74B9FF"/>
+          <polygon points="52,18 44,6 40,18" fill="#74B9FF"/>
+          <!-- Face -->
+          <circle cx="32" cy="30" r="17" fill="#FFEAA7"/>
+          <!-- Blush -->
+          <ellipse cx="21" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <ellipse cx="43" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <!-- Eyes -->
+          <ellipse cx="25" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="24" cy="27" r="1" fill="#FFFFFF"/>
+          <ellipse cx="39" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="38" cy="27" r="1" fill="#FFFFFF"/>
+          <!-- Smile -->
+          <path d="M 29 34 Q 32 37 35 34" stroke="#D63031" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+          <!-- Front Bangs -->
+          <path d="M 16 22 Q 24 16 32 20 Q 40 16 48 22" fill="#0984E3"/>
+          
+          <!-- Placard Card -->
+          <rect x="14" y="44" width="36" height="42" rx="4" fill="#FFFFFF" stroke="#2D3436" stroke-width="2"/>
+          <text x="32" y="74" text-anchor="middle" font-family="'Courier New', monospace, -apple-system" font-size="28" font-weight="900" fill="#2D3436">0</text>
+          
+          <!-- Chibi Hands holding card -->
+          <circle cx="14" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <circle cx="50" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <!-- Feet -->
+          <ellipse cx="25" cy="88" rx="5" ry="3" fill="#74B9FF"/>
+          <ellipse cx="39" cy="88" rx="5" ry="3" fill="#74B9FF"/>
+        </g>
+        
+        <g transform="translate(168, 10)">
+          <!-- Chibi Hair Back -->
+          <circle cx="32" cy="28" r="22" fill="#00B894"/>
+          <!-- Chibi Ears / Ribbons -->
+          <polygon points="12,18 20,6 24,18" fill="#55EFC4"/>
+          <polygon points="52,18 44,6 40,18" fill="#55EFC4"/>
+          <!-- Face -->
+          <circle cx="32" cy="30" r="17" fill="#FFEAA7"/>
+          <!-- Blush -->
+          <ellipse cx="21" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <ellipse cx="43" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <!-- Eyes -->
+          <ellipse cx="25" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="24" cy="27" r="1" fill="#FFFFFF"/>
+          <ellipse cx="39" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="38" cy="27" r="1" fill="#FFFFFF"/>
+          <!-- Smile -->
+          <path d="M 29 34 Q 32 37 35 34" stroke="#D63031" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+          <!-- Front Bangs -->
+          <path d="M 16 22 Q 24 16 32 20 Q 40 16 48 22" fill="#00B894"/>
+          
+          <!-- Placard Card -->
+          <rect x="14" y="44" width="36" height="42" rx="4" fill="#FFFFFF" stroke="#2D3436" stroke-width="2"/>
+          <text x="32" y="74" text-anchor="middle" font-family="'Courier New', monospace, -apple-system" font-size="28" font-weight="900" fill="#2D3436">1</text>
+          
+          <!-- Chibi Hands holding card -->
+          <circle cx="14" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <circle cx="50" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <!-- Feet -->
+          <ellipse cx="25" cy="88" rx="5" ry="3" fill="#55EFC4"/>
+          <ellipse cx="39" cy="88" rx="5" ry="3" fill="#55EFC4"/>
+        </g>
+        
+        <g transform="translate(243, 10)">
+          <!-- Chibi Hair Back -->
+          <circle cx="32" cy="28" r="22" fill="#E17055"/>
+          <!-- Chibi Ears / Ribbons -->
+          <polygon points="12,18 20,6 24,18" fill="#FDCB6E"/>
+          <polygon points="52,18 44,6 40,18" fill="#FDCB6E"/>
+          <!-- Face -->
+          <circle cx="32" cy="30" r="17" fill="#FFEAA7"/>
+          <!-- Blush -->
+          <ellipse cx="21" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <ellipse cx="43" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <!-- Eyes -->
+          <ellipse cx="25" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="24" cy="27" r="1" fill="#FFFFFF"/>
+          <ellipse cx="39" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="38" cy="27" r="1" fill="#FFFFFF"/>
+          <!-- Smile -->
+          <path d="M 29 34 Q 32 37 35 34" stroke="#D63031" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+          <!-- Front Bangs -->
+          <path d="M 16 22 Q 24 16 32 20 Q 40 16 48 22" fill="#E17055"/>
+          
+          <!-- Placard Card -->
+          <rect x="14" y="44" width="36" height="42" rx="4" fill="#FFFFFF" stroke="#2D3436" stroke-width="2"/>
+          <text x="32" y="74" text-anchor="middle" font-family="'Courier New', monospace, -apple-system" font-size="28" font-weight="900" fill="#2D3436">4</text>
+          
+          <!-- Chibi Hands holding card -->
+          <circle cx="14" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <circle cx="50" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <!-- Feet -->
+          <ellipse cx="25" cy="88" rx="5" ry="3" fill="#FDCB6E"/>
+          <ellipse cx="39" cy="88" rx="5" ry="3" fill="#FDCB6E"/>
+        </g>
+        
+        <g transform="translate(318, 10)">
+          <!-- Chibi Hair Back -->
+          <circle cx="32" cy="28" r="22" fill="#6C5CE7"/>
+          <!-- Chibi Ears / Ribbons -->
+          <polygon points="12,18 20,6 24,18" fill="#A29BFE"/>
+          <polygon points="52,18 44,6 40,18" fill="#A29BFE"/>
+          <!-- Face -->
+          <circle cx="32" cy="30" r="17" fill="#FFEAA7"/>
+          <!-- Blush -->
+          <ellipse cx="21" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <ellipse cx="43" cy="34" rx="3.5" ry="2" fill="#FF7675" opacity="0.6"/>
+          <!-- Eyes -->
+          <ellipse cx="25" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="24" cy="27" r="1" fill="#FFFFFF"/>
+          <ellipse cx="39" cy="28" rx="2.5" ry="3.5" fill="#2D3436"/>
+          <circle cx="38" cy="27" r="1" fill="#FFFFFF"/>
+          <!-- Smile -->
+          <path d="M 29 34 Q 32 37 35 34" stroke="#D63031" stroke-width="1.2" fill="none" stroke-linecap="round"/>
+          <!-- Front Bangs -->
+          <path d="M 16 22 Q 24 16 32 20 Q 40 16 48 22" fill="#6C5CE7"/>
+          
+          <!-- Placard Card -->
+          <rect x="14" y="44" width="36" height="42" rx="4" fill="#FFFFFF" stroke="#2D3436" stroke-width="2"/>
+          <text x="32" y="74" text-anchor="middle" font-family="'Courier New', monospace, -apple-system" font-size="28" font-weight="900" fill="#2D3436">2</text>
+          
+          <!-- Chibi Hands holding card -->
+          <circle cx="14" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <circle cx="50" cy="56" r="4.5" fill="#FFEAA7" stroke="#2D3436" stroke-width="1.2"/>
+          <!-- Feet -->
+          <ellipse cx="25" cy="88" rx="5" ry="3" fill="#A29BFE"/>
+          <ellipse cx="39" cy="88" rx="5" ry="3" fill="#A29BFE"/>
+        </g>
+        
+  </g>
+</svg>

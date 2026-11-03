@@ -1,0 +1,65 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="220" viewBox="0 0 600 220">
+  <rect width="600" height="220" rx="10" fill="#010409" stroke="#30363D" stroke-width="1.2"/>
+  
+  <!-- Left: Donut Chart -->
+  <g transform="translate(110, 105)">
+    <!-- Donut background circle -->
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#21262D" stroke-width="14"/>
+    <!-- Easy segment (cyan) -->
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#38EF7D" stroke-width="14" stroke-dasharray="140 377" stroke-dashoffset="0"/>
+    <!-- Medium segment (purple) -->
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#9745F5" stroke-width="14" stroke-dasharray="120 377" stroke-dashoffset="-140"/>
+    <!-- Hard segment (coral) -->
+    <circle cx="0" cy="0" r="60" fill="none" stroke="#FF5376" stroke-width="14" stroke-dasharray="60 377" stroke-dashoffset="-260"/>
+    
+    <!-- Center text -->
+    <text x="0" y="-4" text-anchor="middle" font-family="-apple-system, Segoe UI, sans-serif" font-size="24" font-weight="800" fill="#E6EDF3">250+</text>
+    <text x="0" y="16" text-anchor="middle" font-family="-apple-system, Segoe UI, sans-serif" font-size="11" font-weight="500" fill="#8B949E">SOLVED</text>
+  </g>
+  
+  <!-- Donut Legend -->
+  <g transform="translate(45, 195)" font-family="-apple-system, Segoe UI, sans-serif" font-size="11" fill="#8B949E">
+    <circle cx="0" cy="-3" r="4" fill="#38EF7D"/>
+    <text x="10" y="0">Easy: 110</text>
+    <circle cx="90" cy="-3" r="4" fill="#9745F5"/>
+    <text x="100" y="0">Medium: 105</text>
+    <circle cx="195" cy="-3" r="4" fill="#FF5376"/>
+    <text x="205" y="0">Hard: 35</text>
+  </g>
+
+  <!-- Divider -->
+  <line x1="240" y1="25" x2="240" y2="195" stroke="#21262D" stroke-width="1"/>
+
+  <!-- Right: Profile Info Box -->
+  <g transform="translate(265, 25)">
+    <!-- User header -->
+    <circle cx="20" cy="20" r="14" fill="#161B22" stroke="#30363D" stroke-width="1"/>
+    <text x="20" y="25" text-anchor="middle" font-size="14">⚡</text>
+    <text x="44" y="18" font-family="-apple-system, Segoe UI, sans-serif" font-size="15" font-weight="700" fill="#58A6FF">vipulbhamare</text>
+    <text x="44" y="32" font-family="-apple-system, Segoe UI, sans-serif" font-size="10.5" fill="#8B949E">Problem Solver &amp; Algorithmist</text>
+
+    <!-- Rank badge -->
+    <rect x="0" y="48" width="310" height="42" rx="6" fill="#0D1117" stroke="#21262D" stroke-width="1"/>
+    <text x="155" y="68" text-anchor="middle" font-family="-apple-system, Segoe UI, sans-serif" font-size="14" font-weight="700" fill="#3FB950">Active Problem Solver</text>
+    <text x="155" y="82" text-anchor="middle" font-family="-apple-system, Segoe UI, sans-serif" font-size="10.5" fill="#8B949E">Global Community Rank</text>
+
+    <!-- Stats 2x2 grid -->
+    <g transform="translate(0, 102)" font-family="-apple-system, Segoe UI, sans-serif" font-size="11">
+      <rect x="0" y="0" width="150" height="32" rx="4" fill="#0D1117" stroke="#21262D"/>
+      <text x="10" y="20" fill="#8B949E">★ Rating:</text>
+      <text x="140" y="20" text-anchor="end" font-weight="700" fill="#3FB950">1450+</text>
+
+      <rect x="160" y="0" width="150" height="32" rx="4" fill="#0D1117" stroke="#21262D"/>
+      <text x="170" y="20" fill="#8B949E">⚔ Contests:</text>
+      <text x="300" y="20" text-anchor="end" font-weight="700" fill="#E6EDF3">25+</text>
+
+      <rect x="0" y="38" width="150" height="32" rx="4" fill="#0D1117" stroke="#21262D"/>
+      <text x="10" y="58" fill="#8B949E">🔥 Best Streak:</text>
+      <text x="140" y="58" text-anchor="end" font-weight="700" fill="#58A6FF">32 Days</text>
+
+      <rect x="160" y="38" width="150" height="32" rx="4" fill="#0D1117" stroke="#21262D"/>
+      <text x="170" y="58" fill="#8B949E">🎯 Precision:</text>
+      <text x="300" y="58" text-anchor="end" font-weight="700" fill="#BC8CFF">88.5%</text>
+    </g>
+  </g>
+</svg>
