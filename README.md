@@ -16,25 +16,6 @@
 
 <hr/>
 
-### About me
-
-<img align="right" width="180" src="assets/illustrations/mascot.png" alt="Pixel Mascot" />
-
-| <p align="left">🎓 <a href="https://www.vupune.ac.in/"><b>Vishwakarma University</b></a> • B.Tech CSE / AI &amp; Autonomous Systems </p> |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| 📍 **Location:** Pune, Maharashtra, India |
-| 🤖 **Specialization:** Autonomous Robotics • Applied AI / ML • Embedded IoT Systems |
-| ⚙️ **Core Project:** [Wilo AI Water Transfer System](https://github.com/vipulbhamare09-blip/Wilo-Water-Pump-Automation-1) (LoRa SX1278 • ESP32 • RPi 4 • ADS1115 • ACS712 • ML Schedule) |
-| 🌾 **Initiatives:** [SmartFarmAI](https://github.com/vipulbhamare09-blip/SmartFarmAI) (AI for Bharat) • [EightFold AI Hackathon](https://github.com/vipulbhamare09-blip/Team-Vipkshayush---EightFold-AI-Hackathon) |
-| 💻 **Currently Building:** Autonomous Flight Sim &amp; Drone Telemetry (ROS 2 • Gazebo) |
-| 🐧 **Environment:** Linux / Ubuntu • VS Code • Git / GitHub CLI |
-| 💙 **Love to:** Code • Build Hardware Automations • Simulate Robotics |
-| 🌐 **Languages:** English • Hindi • Marathi |
-
-<br clear="both" />
-
-<hr/>
-
 <img align='right' width="280" src='assets/illustrations/character.png' alt="Character Illustration">
 
 <p align="center">
