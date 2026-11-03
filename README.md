@@ -16,10 +16,7 @@
 
 <hr/>
 
-<img align='right' width="280" src='assets/illustrations/character.png' alt="Character Illustration">
-
-<p align="center">
-  <br/><br/>
+<div align="center">
   <img src="assets/statistics/counter.svg" width="400px" alt="Visitor Counter"/>
   <br/>
   <img src="assets/statistics/stats.svg" width="400px" alt="GitHub Stats"/>
@@ -31,10 +28,9 @@
   <img width="400px" src="assets/statistics/metrics-repository.svg" alt="Metrics Repositories"/>
   <br/>
   <img width="400px" src="assets/statistics/metrics-activity.svg" alt="Isometric Contributions"/>
-</p>
-
-<img src="assets/graphs/activity-graph.svg" width="100%" alt="Contribution Graph"/>
-<br clear="both" />
+  <br/><br/>
+  <img src="assets/graphs/activity-graph.svg" width="100%" alt="Contribution Graph"/>
+</div>
 
 ---
 
