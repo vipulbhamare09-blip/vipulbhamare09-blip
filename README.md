@@ -1,22 +1,6 @@
 <div align="center">
   <img src="assets/banner/f29f7af6b35e675f2902acd33c7c6e17.jpg" alt="Profile Banner" width="100%">
-  <h1>
-    💻 Hi, I'm <a href="https://github.com/vipulbhamare09-blip" style="text-decoration: none; color: #58A6FF;">Vipul!</a>
-  </h1>
-  <p align="center">
-    <a href="https://www.linkedin.com/in/vipul-bhamare" target="_blank" rel="noopener noreferrer"><img height="28" src="assets/icons/linkedin.svg" alt="LinkedIn"></a>
-    &nbsp;
-    <a href="https://github.com/vipulbhamare09-blip" target="_blank" rel="noopener noreferrer"><img height="28" src="assets/icons/github.svg" alt="GitHub"></a>
-    &nbsp;
-    <a href="https://x.com/" target="_blank" rel="noopener noreferrer"><img height="28" src="assets/icons/twitter-x.svg" alt="X / Twitter"></a>
-    &nbsp;
-    <a href="https://discord.com/" target="_blank" rel="noopener noreferrer"><img height="28" src="assets/icons/discord.svg" alt="Discord"></a>
-  </p>
-</div>
-
-<hr/>
-
-<div align="center">
+  <br/><br/>
   <img src="assets/illustrations/pixel-catgirl-number-lineup.png" width="400px" alt="Pixel Catgirl Number Lineup (0 1 6 8 7)"/>
   <br/><br/>
   <img src="assets/statistics/stats.svg" width="400px" alt="GitHub Stats"/>
